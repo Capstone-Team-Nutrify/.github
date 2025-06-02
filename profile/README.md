@@ -1,6 +1,6 @@
 # 📣 Nutrify - Coding Camp 2025 Capstone Project
 
-![Nutrify]()
+![Nutrify](https://github.com/Capstone-Team-Nutrify/.github/blob/56b5954f90c6f013be934291b006e3a732c9c0bb/profile/nutrify-thumbnail.png)
 
 # Introduction 👋
 
