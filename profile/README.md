@@ -13,6 +13,12 @@ Hi everyone! We are from CC25-CF083. We consist of 6 people and these are my tea
 | FC211D5Y1067 | Muhammad Rafli           | Front-End & Back-End Developer | Universitas Indraprasta PGRI                | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmmdrafli3/)                        |
 | FC309D5Y2263 | Adriano Posumah          | Front-End & Back-End Developer | Universitas Sam Ratulangi                   | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-posumah/)                    |
 
+## About
+
+Nutrify is a smart nutrition guide designed to help users make informed food choices tailored to their individual health conditions. By leveraging a comprehensive food database and a specialized tagging system, Nutrify provides detailed information on the nutritional content and potential health impacts of various foods—whether they are recommended, neutral, or should be avoided for specific conditions such as diabetes, hypertension, high cholesterol, or food allergies.
+
+Users can easily identify which foods align with their health needs and receive suggestions for healthier alternatives. In addition, Nutrify offers practical dietary tips and supports users in maintaining a balanced lifestyle, making it a reliable companion for long-term health and wellness.
+
 ## Theme ⚕️
 
 Health Innovation
