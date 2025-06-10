@@ -4,7 +4,7 @@
 
 # Application Architecture
 
-![Nutrify](https://github.com/Capstone-Team-Nutrify/.github/blob/f8258dea3d59d78a54e5e8436bee409d9268a474/profile/nutrify-architecture.png)
+![Nutrify](https://github.com/Capstone-Team-Nutrify/.github/blob/284e52b885f97a4f10577678ea7592bee112484c/profile/nutrify-architecture.png)
 
 # Introduction 👋
 
